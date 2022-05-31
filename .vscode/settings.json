@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.ttss": "css",
+    "*.wxss": "css",
+    "*.sjs": "javascript",
+    "*.ttml": "html",
+    "*.wxml": "html",
+    "dirent.h": "c"
+  }
+}
